@@ -17,6 +17,10 @@ paper list for emotion recognition of conversation
 - [SumAggGIN] Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition, in COLING 2020, [[paper]](https://aclanthology.org/2020.coling-main.367/)
 - [DAG-ERC] Directed Acyclic Graph Network for Conversational Emotion Recognition, in ACL 2021, [[paper]](https://aclanthology.org/2021.acl-long.123/)
 
+- [ERMC-DisGCN] A Discourse-Aware Graph Neural Network for Emotion Recognition in  Multi-Party Conversation, in EMNLP 2021(findings),  [[paper]](https://aclanthology.org/2021.findings-emnlp.252/)
+
+- MuCDN:  Mutual Conversational Detachment Network for Emotion Recognition in  Multi-Party Conversations, in COLING 2022,  [[paper]](https://aclanthology.org/2022.coling-1.612/)
+
 ## PLM-Based Models
 
 - HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations, in COLING 2020, [[paper]](https://aclanthology.org/2020.coling-main.370/)
@@ -44,6 +48,8 @@ paper list for emotion recognition of conversation
 - DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations, in ACL 2021, [[paper]](https://aclanthology.org/2021.acl-long.547/)
 - [HCL] Hybrid Curriculum Learning for Emotion Recognition in Conversation, in AAAI 2022, [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-12341.YangL.pdf)
 - [SGED] Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation, in IJCAI 2022, [[paper]](https://www.ijcai.org/proceedings/2022/562)
+
+- [SPCL-CL-ERC] Supervised Prototypical Contrastive Learning for Emotion  Recognition in Conversation, in EMNLP 2022,  [[paper]](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.347/)
 
 ## Commonsense Knowledge Graph
 
